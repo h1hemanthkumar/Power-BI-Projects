@@ -11,7 +11,7 @@ This project aims to leverage Power BI for creating interactive and insightful d
 1. Fork this repository  
 2. Clone your forked repo  
    ```sh
-   git clone https://github.com/your-username/power-bi-project.git
+   git clone https://github.com/h1hemanthkumar/Power-BI-Projects.git
    ```
 3. Create a new branch for your contributions  
    ```sh
